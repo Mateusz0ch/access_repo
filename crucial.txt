@@ -1,2 +1,2 @@
-LOGIN: LOL
-PASSWORD: AEZAKMI
+username=LOL
+paasword=AEZAKMI
